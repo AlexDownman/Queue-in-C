@@ -1,0 +1,3 @@
+C:/Users/alexd/OneDrive/Projects/C_Queue/cmake-build-debug/CMakeFiles/C_Queue.dir
+C:/Users/alexd/OneDrive/Projects/C_Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexd/OneDrive/Projects/C_Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
