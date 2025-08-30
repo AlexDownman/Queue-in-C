@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#define MAX_SIZE 50
-
 typedef struct {
     int data;
     struct Node* next;
